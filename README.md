@@ -9,7 +9,9 @@
 
 Enfermeira formada pela Faculdade de Medicina de Marília (2013 - 2016), Pós Graduada pelo formato Residencia pelo Programa Uniprofissional de Clínico - Cirúrgica Hospital Sírio Libanes.  Ex Bolsista do Programa de Intercãmbio cultural do Centro Paula Souza (out/2011) e da Bolsa Santander (out/2015) para aperfeiçoamento na áera hospitalar. Nível Avançado de Inglês, Intermediário em Espanhol e Básico em Francês. Habilitação Técnica em Informática. Atualmente, atuando na Clínica Médica e Aspirante em Ciências de Dados. 
 
-**Background in:** Enfemagem Assistencial, Transformação Digital, Data Science.
+
+
+**Background in:** Enfemagem, Transformação Digital, Data Science.
 
 **Links:**
 
