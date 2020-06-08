@@ -22,6 +22,7 @@ Neste portfólio você encontrará um repositório dos projetos e estudos contru
 
 
 ## Projetos:
+1. **Analisando dados da Airbnb: Rio de Janeiro**: 
 
 
 ---
