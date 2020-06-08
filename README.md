@@ -4,6 +4,8 @@
   <img src="banner.png" >
 </p>
 
+Aqui você vai encontrar os meus projetos/estudos sobre Data Science. 
+
 # Maria Gabriela Furlaneto Barros 
 <sub>*Enfermeira Assistencial * Hospital Nove de Julho - São Paulo - Aspirante em Ciencias de Dados. </sub>
 
