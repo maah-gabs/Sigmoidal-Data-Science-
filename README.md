@@ -18,6 +18,8 @@ Enfermeira formada pela Faculdade de Medicina de Marília (2013 - 2016), Pós Gr
 **Links:**
 
 * [LinkedIn](https://www.linkedin.com/in/maria-gabriela-furlaneto-barros-410194150/)
+* [Currículo Lattes](https://bit.ly/2MFTAF7)
+
 
 
 
