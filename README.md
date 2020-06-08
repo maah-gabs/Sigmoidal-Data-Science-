@@ -1,4 +1,4 @@
-# Sigmoidal-Data-Science-
+# Data Science na Prática - Sigmoidal. 
 
 <p align="center">
   <img src="Imagem1.png" >
