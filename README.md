@@ -1,7 +1,7 @@
 # Sigmoidal-Data-Science-
 
 <p align="center">
-  <img src="banner.png" >
+  <img src="Slide1.JPG" >
 </p>
 
 Aqui você vai encontrar os meus projetos/estudos sobre Data Science. 
