@@ -23,6 +23,6 @@ Neste portfólio você encontrará um repositório dos projetos e estudos contru
 
 ## Projetos:
 1. **Analisando dados da Airbnb - Rio de Janeiro**: (https://bit.ly/3h5SQXK)
-2. **Analisando a violencia no Rio de Janeiro ** : ()
+2. **Analisando a violencia no Rio de Janeiro** : (https://bit.ly/3ehK0Ex)
 
 ---
